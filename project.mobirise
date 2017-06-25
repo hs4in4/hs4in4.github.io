@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "freen.html",
     "name": "HS4iN",
     "theme": {
       "name": "mobirise3",
@@ -12,9 +12,9 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Indie Flower",
-        "subtitleFont": "Indie Flower",
-        "textFont": "Open Sans Condensed",
+        "titleFont": "Ubuntu",
+        "subtitleFont": "Ubuntu",
+        "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
@@ -94,10 +94,6 @@
             },
             ".close-icon::before, .close-icon::after": {
               "background-color": "#ffffff"
-            },
-            ".btn": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           },
           "_name": "menu",
@@ -122,11 +118,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-227x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/me22-128x128.png",
               "height": 128,
-              "alt": "HS4iN",
-              "link": "index.html",
-              "title": "HS4iN",
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -135,20 +131,25 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TEST.GITHUB.IO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tutorial.html\" aria-expanded=\"false\">Tutorials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"tutorial.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">New Tab</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sub Tab</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gifts</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"freen.html\">NETFLIX</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"freeid.html\">APPLE IDs</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"appleid.html\">Premium Apple ID</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HUSSAIN</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tutorial.html\" aria-expanded=\"false\">Tutorials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gifts</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"freen.html\">NETFLIX</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"freeid.html\">APPLE IDs</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"appleid.html\">Premium Apple ID</a></li>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "header1",
-          "_anchor": "header1-g",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "header1-1",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mountain-2000x1334.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -156,16 +157,16 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "NEW WEBSITE",
-          "text": "You can download for Mac &amp; Windows!<br>Make something usefull! change the world :D",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "Welcome!",
+          "text": "Here is my techology space<br>and I just have these two<br>social media accounts:",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://twitter.com/hs4in\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://ok.ru/profile/576504030947\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-odnoklassniki mbr-iconfont mbr-iconfont-btn\"></span></a> "
         },
         {
           "_name": "footer1",
@@ -274,9 +275,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/me22-128x128.png",
               "height": 128,
-              "alt": "HS4iN",
-              "link": "index.html",
-              "title": "HS4iN",
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -491,9 +492,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/me22-128x128.png",
               "height": 128,
-              "alt": "HS4iN",
-              "link": "index.html",
-              "title": "HS4iN",
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -688,9 +689,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/me22-128x128.png",
               "height": 128,
-              "alt": "HS4iN",
-              "link": "index.html",
-              "title": "HS4iN",
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -809,9 +810,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/me22-128x128.png",
               "height": 128,
-              "alt": "HS4iN",
-              "link": "index.html",
-              "title": "HS4iN",
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -839,6 +840,41 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 HS4iN."
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-g",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Netflix List",
+          "text": "<p>Lastest update: 25 June 2017</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 1</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 2</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 3</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 4</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 5</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 6</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 7</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 8</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 9</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 10</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 11</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 12</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 13</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 14</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 15</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Account 16</a>"
         }
       ]
     }
